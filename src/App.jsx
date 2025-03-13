@@ -10,8 +10,8 @@ import { Projects } from './components/sections/Projects'
 import { Contact } from './components/sections/Contact'
 function App() {
   
-const[isLoaded, setIsLoaded] = useState(false);
-const[menuOpen, setMenuOpen] = useState(false);
+const [isLoaded, setIsLoaded] = useState(false);
+const [menuOpen, setMenuOpen] = useState(false);
   return (
     <>
       
