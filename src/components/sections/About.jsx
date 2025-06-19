@@ -16,7 +16,11 @@ export const About =() => {
         </div>
 
         <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
-            <p className="text-gray-300 mb-6">I create high-performance web applications that drive business growth. As a Front-End Developer, I craft seamless and engaging user experiences with a strong focus on performance, design, and functionality. Passionate about innovation, I transform ideas into scalable digital solutions that make an impact.</p>
+            <p className="text-gray-300 mb-6">React Frontend Developer with 1+ years of experience crafting responsive, high-performance web applications using 
+React.js, JavaScript, and Redux Toolkit. Skilled in state management, performance tuning, and leading code migrations 
+from legacy stacks. Strong foundation in TDD, Agile collaboration, and scalable UI architecture. Proven ability to enhance 
+user experience, reduce load times, and boost code quality through modern best practices.
+</p>
         
         <div className="flex justify-center items-center">
             <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
