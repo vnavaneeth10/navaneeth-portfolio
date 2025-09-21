@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "routes": [
+    {
+      "src": "/(.*).js",
+      "headers": {
+        "Content-Type": "application/javascript"
+      },
+      "continue": true
+    }
+  ]
+}
